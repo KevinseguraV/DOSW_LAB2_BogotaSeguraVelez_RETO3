@@ -88,5 +88,5 @@ La clase `Reto3`:
 ![ResumenCompra](Laboratorio2/Evidencias/EvidenciaSalida.png)
 
 # Diagrama UML
-![DiagramaUML](Laboratorio2/Evidencias/DiagramaUMLReto3.png)
+![DiagramaUML](Laboratorio2/Evidencias/DiagramaReto3.png)
 
